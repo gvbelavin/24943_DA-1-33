@@ -11,4 +11,5 @@
  - pip install pandas seaborn scikit-learn matplotlib
 
 Результат:
-- <img width="604" height="422" alt="image" src="https://github.com/user-attachments/assets/a753089c-ad90-48a9-9e81-5031ce5a588e" />
+- <img width="661" height="461" alt="image" src="https://github.com/user-attachments/assets/54a51b7a-bc94-406f-a2f5-6138786671d6" />
+
